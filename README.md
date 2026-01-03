@@ -60,6 +60,7 @@ The dataset contains **31 retail transaction records** with the following key fi
 
 ## Tools Used
 - Microsoft Excel
+<img width="872" height="620" alt="Cleaned Data" src="https://github.com/user-attachments/assets/25169aba-cb22-4760-96a0-b982de17e1d6" />
 
 ---
 
